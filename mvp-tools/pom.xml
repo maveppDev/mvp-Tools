@@ -12,6 +12,12 @@
             <version>1.7.9.R3</version>
             <type>jar</type>
         </dependency>
+        <dependency>
+            <groupId>pl.mavepp</groupId>
+            <artifactId>CraftBukkitSpigot</artifactId>
+            <version>1.7.5.R3</version>
+            <type>jar</type>
+        </dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
